@@ -15,6 +15,7 @@
                 lady and her mods are like super cool. I helped on a few of them.</p>
             <p>Feel free to check out my and hers pages for more info!</p>
             <p>Have a great day!</p>
+            <p>Hannibal lecter, the late great hannibal lecter</p>
         </div>
     </div>
     <img src="img.png" alt="mario"/>
@@ -48,7 +49,32 @@
 </div>
 
 <style>
-    .grind {
-        background-color: lightblue;
+    body {
+        background-color:  #424949;
+    }
+
+    .aroundTextBox {
+        padding-top: 40px;
+    }
+
+    .textBox {
+        background-color: #333;
+        margin: auto;
+        width: 65%;
+        border: 5px solid #333;
+        border-radius: 12px;
+        text-align: center;
+        color: lightgray;
+    }
+    .textBox p {
+        font-size: x-large;
+        margin: 10px 15px;
+        padding: 10px;
+    }
+    .textBox h1 {
+        text-align: left;
+        margin-left: 20px;
+        margin-block: 10px;
+        font-size: xx-large;
     }
 </style>
