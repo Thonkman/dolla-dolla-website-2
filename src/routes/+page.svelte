@@ -1,5 +1,5 @@
 <head>
-    <title>Thonkman</title>
+    <title>Thonkman Network</title>
     <link rel="stylesheet" href="thonkstyle.css">
 </head>
 
